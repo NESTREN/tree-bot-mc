@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "treebot",
+  "version": "${version}",
+  "name": "TreeBot MC",
+  "description": "Fabric 1.21.4 utility bot for tree farming, fishing and auto-combat response.",
+  "authors": ["Codex"],
+  "contact": {
+    "sources": "https://github.com/example/tree-bot-mc"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.treebot.TreeBotClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
