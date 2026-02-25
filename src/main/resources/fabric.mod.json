@@ -4,9 +4,9 @@
   "version": "${version}",
   "name": "TreeBot MC",
   "description": "Fabric 1.21.4 utility bot for tree farming, fishing and auto-combat response.",
-  "authors": ["Codex"],
+  "authors": ["nestren"],
   "contact": {
-    "sources": "https://github.com/example/tree-bot-mc"
+    "sources": "https://github.com/nestren/tree-bot-mc"
   },
   "license": "MIT",
   "environment": "client",
